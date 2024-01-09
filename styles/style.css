@@ -19,7 +19,7 @@
     transition: 0.5s;
 }
 .banner-main {
-    background-image: url(/images/banner/banner1.png);
+    background-image: url(../images/banner/banner1.png);
     background-size: cover;
     display: flex;
     width: 100%;
